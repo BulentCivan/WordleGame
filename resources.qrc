@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>words.txt</file>
+        <file>wordle_logo.ico</file>
+    </qresource>
+</RCC>
