@@ -18,7 +18,9 @@ Features
   How to Run
 
 git clone https://github.com/BulentCivan/WordleGame.git
+
 cd WordleGame
+
 !!!Make sure you have Qt 6 installed
 
 
