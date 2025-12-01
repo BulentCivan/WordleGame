@@ -6,10 +6,10 @@ The game shows feedback for correct letters and positions, warns for invalid or 
 and displays a dialog on win or loss.
 
 
-*It checks if word is long enough or have a meaning in dictionary.
+*It checks if word is long enough or have a meaning in dictionary. Olso it chackes thw given word has tries before.
 <img width="617" height="840" alt="image" src="https://github.com/user-attachments/assets/d4f1de76-755d-4e5c-b98e-15e2236b0cad" />
-<img width="972" height="1331" alt="image" src="https://github.com/user-attachments/assets/e8038398-2d21-4fec-a869-897eef0a5544" />
-<img width="622" height="852" alt="image" src="https://github.com/user-attachments/assets/b1501e88-350f-4648-bd3e-0fe48c7814c1" />
+<img width="972" height="1325" alt="image" src="https://github.com/user-attachments/assets/ef1008e7-155a-4dab-915a-9591b826a2a2" />
+
 *You have 6 tries and as in actual gme it gives you a wiff of word. Eighter letters in correct place or letters are in the word but wrong place.
 <img width="970" height="1326" alt="image" src="https://github.com/user-attachments/assets/57566e3d-7f90-4d98-89c2-61f68a85b0da" />
 *You win the game by guessing the word or lose the game by make mistakes in 6 tries.
