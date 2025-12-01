@@ -5,6 +5,22 @@ Users try to guess the 5-letter target word within limited attempts.
 The game shows feedback for correct letters and positions, warns for invalid or duplicate guesses,  
 and displays a dialog on win or loss.
 
+Features
+
+- 5-letter word validation  
+- Limited number of attempts (configurable)  
+- Duplicate guess detection and warning  
+- Invalid word check and warning  
+- Win / Lose dialogs with option to restart  
+- Built using: Qt 6, QML + C++ backend  
+- Dark theme / modern UI
+
+  How to Run
+
+git clone https://github.com/BulentCivan/WordleGame.git
+cd WordleGame
+!!!Make sure you have Qt 6 installed
+
 
 *It checks if word is long enough or have a meaning in dictionary. Olso it chackes thw given word has tries before.
 
@@ -25,6 +41,10 @@ and displays a dialog on win or loss.
 <img width="350" height="500" alt="image" src="https://github.com/user-attachments/assets/9dedcc07-4704-444e-8753-75ca6f2df1c9" />
 
 <img width="350" height="500" alt="image" src="https://github.com/user-attachments/assets/ef8b61e5-b9af-4a64-a80f-72f98d7278ac" />
+
+
+I am open to suggestions. Pls reach me via bulentcivan7@gmail.com.
+Thanks :)
 
 
 
