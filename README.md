@@ -42,6 +42,10 @@ cd WordleGame
 
 <img width="350" height="500" alt="image" src="https://github.com/user-attachments/assets/ef8b61e5-b9af-4a64-a80f-72f98d7278ac" />
 
+Download
+You can download the latest installer here: https://github.com/BulentCivan/WordleGame/releases
+
+
 
 I am open to suggestions. Pls reach me via bulentcivan7@gmail.com.
 Thanks :)
