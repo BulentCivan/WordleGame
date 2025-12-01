@@ -12,6 +12,10 @@ and displays a dialog on win or loss.
 
 <img width="350" height="500" alt="image" src="https://github.com/user-attachments/assets/ef1008e7-155a-4dab-915a-9591b826a2a2" />
 
+<img width="350" height="500" alt="image" src="https://github.com/user-attachments/assets/24db83e2-e243-4c15-be2c-044504fb1bc6"/>
+
+
+
 *You have 6 tries and as in actual gme it gives you a wiff of word. Eighter letters in correct place or letters are in the word but wrong place.
 
 <img width="350" height="500" alt="image" src="https://github.com/user-attachments/assets/57566e3d-7f90-4d98-89c2-61f68a85b0da" />
