@@ -7,14 +7,20 @@ and displays a dialog on win or loss.
 
 
 *It checks if word is long enough or have a meaning in dictionary. Olso it chackes thw given word has tries before.
-<img width="617" height="840" alt="image" src="https://github.com/user-attachments/assets/d4f1de76-755d-4e5c-b98e-15e2236b0cad" />
-<img width="972" height="1325" alt="image" src="https://github.com/user-attachments/assets/ef1008e7-155a-4dab-915a-9591b826a2a2" />
+
+<img width="350" height="500" alt="image" src="https://github.com/user-attachments/assets/d4f1de76-755d-4e5c-b98e-15e2236b0cad" />
+
+<img width="350" height="500" alt="image" src="https://github.com/user-attachments/assets/ef1008e7-155a-4dab-915a-9591b826a2a2" />
 
 *You have 6 tries and as in actual gme it gives you a wiff of word. Eighter letters in correct place or letters are in the word but wrong place.
-<img width="970" height="1326" alt="image" src="https://github.com/user-attachments/assets/57566e3d-7f90-4d98-89c2-61f68a85b0da" />
+
+<img width="350" height="500" alt="image" src="https://github.com/user-attachments/assets/57566e3d-7f90-4d98-89c2-61f68a85b0da" />
+
 *You win the game by guessing the word or lose the game by make mistakes in 6 tries.
-<img width="975" height="1322" alt="image" src="https://github.com/user-attachments/assets/9dedcc07-4704-444e-8753-75ca6f2df1c9" />
-<img width="970" height="1320" alt="image" src="https://github.com/user-attachments/assets/ef8b61e5-b9af-4a64-a80f-72f98d7278ac" />
+
+<img width="350" height="500" alt="image" src="https://github.com/user-attachments/assets/9dedcc07-4704-444e-8753-75ca6f2df1c9" />
+
+<img width="350" height="500" alt="image" src="https://github.com/user-attachments/assets/ef8b61e5-b9af-4a64-a80f-72f98d7278ac" />
 
 
 
